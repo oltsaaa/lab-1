@@ -1,0 +1,118 @@
+body {
+    font-family: "Montserrat", sans-serif;
+    color:  #000000;
+    background: #e5e5e5;
+    box-sizing: border-box;
+    display: flex;
+    justify-content: center;
+}
+    
+a {
+    text-decoration: none;
+}
+    
+.main {
+    display: flex;
+    flex-direction: row-reverse;
+    margin: 40px;
+    max-width: 1200px;
+}
+    
+.main-content {
+    background-color: white;
+    box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.8);
+    padding: 105px 90px;
+}
+    
+.aboutUser {
+    margin-bottom: 40px;
+}
+    
+.about-position {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 17px;
+    color: #000000;
+    margin-bottom: 20px;
+}
+    
+.about-name {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 45px;
+    line-height: 55px;
+    color: #000000;
+    margin-bottom: 25px;
+}
+    
+.about-descrption {
+    width: 400px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #595959;
+}
+    
+.sidebar {
+    color: white;
+    background: #1e2939;
+    padding-top: 40px;
+    padding-left: 40px;
+    padding-right: 40px;
+    width: 370px;
+}
+
+.user-photo{
+    height: 25em;
+    width: 20em;
+}
+
+
+    
+ol {
+    padding-bottom:50px;
+    
+}
+
+.projects-bracket {
+    color: #000000;
+    font-weight: 700;
+}
+
+.organization{
+    color: rgba(251, 109, 58, 1);
+    font-weight: 700;
+    
+
+}
+
+.text-grey{
+    color: rgba(168, 168, 168, 1);
+}
+
+h3{
+    font-size: 16px;
+}
+h2{
+    font-size: 22px;
+}
+
+li{
+    line-height: 25px;
+}
+
+.white-a {
+    text-decoration: none;
+    color: rgba(168, 168, 168, 1);
+}
+
+.side-list{
+    color: rgba(255, 255, 255, 1);
+}
+
+
+
+
+
